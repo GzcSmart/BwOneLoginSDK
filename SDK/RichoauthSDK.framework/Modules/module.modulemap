@@ -1,0 +1,6 @@
+framework module RichoauthSDK {
+  umbrella header "RichoauthSDK.h"
+
+  export *
+  module * { export * }
+}
